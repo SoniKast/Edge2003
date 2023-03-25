@@ -12,7 +12,6 @@ and set it to true, then search for
 
 and set the value as "1" (you may need to create it, before you do it select number", then restart Firefox.
 
-
 Copy the files inside /ffroot to C:\Program Files\Mozilla Firefox (or wherever your Firefox installation is)
 
 Then copy the "chrome" folder inside /profile to %appdata%\Mozilla\Firefox\Profiles\<your profile>
