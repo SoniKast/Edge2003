@@ -1,5 +1,5 @@
 # Edge2003
-![alt text]([https://raw.githubusercontent.com/SoniKast/Edge2003/main/IE/edgelogo.png])
+![alt text](https://raw.githubusercontent.com/SoniKast/Edge2003/main/IE/edgelogo.png)
 Edge2003 is a Firefox CSS mod that replicates MondySpartan's Microsoft Edge in 2003 Mockup (to the best of my abilities).
 
 It was developed on Firefox 111, so it should work on most recent versions of Firefox, unless they mess everything up (and they probably will lol).
