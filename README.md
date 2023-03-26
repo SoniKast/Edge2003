@@ -1,5 +1,5 @@
 # Edge2003
-![Edge2003 Logo](https://raw.githubusercontent.com/SoniKast/Edge2003/main/IE/edgelogo.png)
+![Edge2003 Logo](https://raw.githubusercontent.com/SoniKast/Edge2003/main/images/edgelogo.png)
 
 ## What is this?
 **Edge2003** is a Firefox CSS mod that replicates **MondySpartan**'s [Microsoft Edge in 2003 Mockup](https://www.reddit.com/r/Windows_Redesign/comments/11mj5zr/microsoft_edge_in_2003_made_before_that_edge_from/) (to the best of my abilities).
@@ -16,7 +16,7 @@ Tested on:
 
 ## Screenshots
 Windows 10 22h2 x64 with BasicThemer3, UltraUXThemePatcher and PerfectLuna10
-![Edge2003 Window](https://raw.githubusercontent.com/SoniKast/Edge2003/main/IE/example.png)
+![Edge2003 Window](https://raw.githubusercontent.com/SoniKast/Edge2003/main/images/example.png)
 
 ## Download
 Go to the [releases](https://github.com/SoniKast/Edge2003/releases "releases") page and download the linked .ZIP file.
