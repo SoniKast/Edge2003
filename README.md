@@ -15,7 +15,8 @@ Tested on:
 - Windows 10 (Version 22h2) x64 
 
 ## Screenshots
-Windows 10 22h2 x64 with BasicThemer3, UltraUXThemePatcher and PerfectLuna10
+- Windows 10 22h2 x64 with BasicThemer3, UltraUXThemePatcher and PerfectLuna10
+
 ![Edge2003 Window](https://raw.githubusercontent.com/SoniKast/Edge2003/main/images/example.png)
 
 ## Download
