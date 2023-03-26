@@ -151,6 +151,7 @@ identity-icon-box
 }
 
 #TabsToolbar {
+	padding-inline: 2px !important;
 	-moz-box-ordinal-group: 4 !important;
 }
 
