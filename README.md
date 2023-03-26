@@ -27,7 +27,7 @@ No particular reason, I just thought the mockup looked really cool, like an impr
 - **How do I install it?**  
 Read [installation.md](https://github.com/SoniKast/Edge2003/blob/main/installation.md "installation.md") for more detailed installation instructions.
 - **Can I have the Edge2003 icon?**  
-Check out the Extras folder [for](https://github.com/SoniKast/Edge2003/tree/main/Extras) those.  
+Check out the Extras folder for [those](https://github.com/SoniKast/Edge2003/tree/main/Extras).  
 - **Can I modify it?**  
 You are free to do whatever you want with this theme, it's freely available after all!
 
