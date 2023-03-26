@@ -16,6 +16,6 @@ then restart Firefox.
 ## UI Configuration
 After installation, right click on the tabs toolbar and press "Customize Toolbar". Here is a guide to help you:
 
-![alt_text](https://raw.githubusercontent.com/SoniKast/Edge2003/main/images/guide.png)
+![Installation Guide](https://raw.githubusercontent.com/SoniKast/Edge2003/main/images/guide.png)
 
-**Make sure to enable Title Bar**  
+**Make sure to enable Title Bar!!**  
