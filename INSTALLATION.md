@@ -17,5 +17,3 @@ then restart Firefox.
 After installation, right click on the tabs toolbar and press "Customize Toolbar". Here is a guide to help you:
 NO IMAGE YET
 **Make sure to enable Title Bar**  
-
-**Want to configure the branding and other minor tweaks? Go to the [Extras](https://github.com/NWinXP/Aerofox/blob/main/extras.md) page to read more.**
