@@ -25,7 +25,7 @@ Go to the [releases](https://github.com/SoniKast/Edge2003/releases "releases") p
 - **Why though?**  
 No particular reason, I just thought the mockup looked really cool, like an improvement over IE6's base design.
 - **How do I install it?**  
-Read [installation.md](https://github.com/SoniKast/Edge2003/blob/main/installation.md "installation.md") for more detailed installation instructions.
+Read [INSTALLATION.md](https://github.com/SoniKast/Edge2003/blob/main/INSTALLATION.md "INSTALLATION.md") for more detailed installation instructions.
 - **Can I have the Edge2003 icon?**  
 Check out the Extras folder for [those](https://github.com/SoniKast/Edge2003/tree/main/Extras).  
 - **Can I modify it?**  
