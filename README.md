@@ -12,10 +12,11 @@ This theme is based on the IE6 theme made for the Windows eXPerience iso, which.
 While you can use the theme on macOS or Linux, it will probably not look right. This theme was made to work with Windows 10 using a version of [BasicThemer](https://github.com/arukateru/BasicThemer5) and the [PerfectLuna10 theme](https://winclassic.boards.net/thread/1528/noir10-perfectluna10). While it has not been tested on other Windows versions, it should work as long as you have an XP-based theme.
 
 Tested on:
-- Windows 10 (Version 22h2) x64 
+- Windows 10 (Version 22H2) x64 
+- Windows 10 (Version 1809) x64
 
 ## Screenshots
-- Windows 10 22h2 x64 with BasicThemer3, UltraUXThemePatcher and PerfectLuna10
+- Windows 10 1809 x64 with BasicThemer3, SecureUxTheme and PerfectLuna10
 
 ![Edge2003 Window](https://raw.githubusercontent.com/SoniKast/Edge2003/main/images/example.png)
 
