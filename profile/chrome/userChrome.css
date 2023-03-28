@@ -143,11 +143,6 @@ identity-icon-box
   min-height: 0 !important;
 }
 
-.tabbrowser-tab:first-of-type:last-of-type,
-.tabbrowser-tab:first-of-type:last-of-type ~ #tabbrowser-arrowscrollbox-periphery {
-	display: none !important;
-}
-
 #additional_top_toolbar1 {
 	-moz-box-ordinal-group: 3 !important;
 	padding-top: 2px;
@@ -156,6 +151,7 @@ identity-icon-box
 }
 
 #TabsToolbar {
+	padding-inline: 2px !important;
 	-moz-box-ordinal-group: 4 !important;
 }
 
@@ -180,7 +176,7 @@ identity-icon-box
 
 #urlbar-container {
 	--urlbar-container-height: 32px !important;
-	margin-inline: 0 !important;
+	margin-inline: 3px !important;
 	padding-block: 0 !important;
 	min-width: unset !important;
 }
@@ -378,7 +374,8 @@ identity-icon-box
 	height: 22px !important;
 	-moz-appearance: statusbar !important;
 	padding-top: 0 !important;
-	padding-inline: 6px !important;
+	padding-left: 2px !important;
+	padding-right: 6px !important;
 	display: flex !important;
 	align-items: center !important;
 	position: absolute !important;
@@ -456,6 +453,7 @@ identity-icon-box
 #sidebar-button,
 #unified-extensions-button,
 #fxa-toolbar-menu-button{
+	width: 38px !important;
 	list-style-image: none !important;
 -moz-context-properties: unset !important;
 fill: unset !important;
@@ -607,7 +605,7 @@ toolbar:not(#nav-bar) .webextension-browser-action {
 }
 
 #downloads-button {
-	width: 33px !important;
+	width: 38px !important;
 	-moz-image-region: rect(0px 325px 25px 300px) !important;
 }
 
@@ -648,7 +646,27 @@ toolbar:not(#nav-bar) .webextension-browser-action {
 }
 
 #fxa-toolbar-menu-button {
-	-moz-image-region: rect(0px 425px 25px 400px) !important;
+	width: unset !important;
+	padding-left: 3px !important;
+	-moz-image-region: rect(0px 428px 25px 403px) !important;
+}
+
+#fxa-toolbar-menu-button::after {
+	content: 'Personal';
+	padding-right: 5px !important;
+	padding-left: 3px !important;
+}
+
+#fxa-toolbar-menu-button::before {
+	content: '';
+	padding-right: 5px !important;
+	-moz-box-ordinal-group: 2 !important;
+  background-image: url('alltabs.png') !important;
+	background-repeat: no-repeat;
+	display: inline-block;
+	width: 5px;
+	height: 3px;
+  margin-top: 2px !important;
 }
 
 #edit-controls {
