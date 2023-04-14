@@ -5,6 +5,7 @@
 **Edge2003** is a Firefox CSS mod that replicates **MondySpartan**'s [Microsoft Edge in 2003 Mockup](https://www.reddit.com/r/Windows_Redesign/comments/11mj5zr/microsoft_edge_in_2003_made_before_that_edge_from/) (to the best of my abilities).
 
 It was developed on Firefox 111, so it should work on most recent versions of Firefox, unless they mess everything up (and they probably will lol).
+UPDATE: The icons no longer display properly when you run this skin on Firefox 112... so, I'm gonna be working on that
 
 This theme is based on the IE6 theme made for the Windows eXPerience iso, which... you can find in [**Windows eXPerience**](https://archive.org/details/windows-experience-freestyle/), go check it out! And the page is based on [Aerofox by NWinXP.](https://github.com/NWinXP/Aerofox)
 
